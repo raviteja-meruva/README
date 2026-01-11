@@ -116,13 +116,13 @@ This GitHub profile is a **transparent record of my learning, projects, and skil
 ## 📁 Active Learning & Project Repositories
 
 🐍 **Core Python Projects**  
-Clean, modular Python programs focused on logic, readability, reusability, and problem decomposition.
+- Clean, modular Python programs focused on logic, readability, reusability, and problem decomposition.
 
 🧮 **Mathematics for Machine Learning**  
-- Linear Algebra – vectors, matrices, eigen intuition  
-- Probability – random variables, distributions, Bayes theorem  
-- Statistics – mean, variance, hypothesis testing  
-- Optimization – gradient descent (conceptual)  
+- Linear Algebra
+- Probability  
+- Statistics 
+- Optimization
 
 > Focus on intuition and ML application, not academic proofs.
 
